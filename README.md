@@ -12,3 +12,4 @@ By default, the scoreboard will show the score for today's MLB games.
 - Include **Team Logos**
 - Allow user to select live games
     - Include descriptive play-by-play events for live game (refresh every 30 seconds)
+- Bottom of the screen live ticker
